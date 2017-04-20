@@ -24,8 +24,8 @@ import com.backendless.exceptions.BackendlessFault;
 public class ApplicantActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
     private String appVersion = "v1";
-    final private String APP_ID = "71DF3BA8-B4BE-EDB1-FF8A-CC3FD60FA800";
-    final private String PRIVATE_KEY = "2171D9E4-0F26-2410-FF4D-758346510700";
+    final private String APP_ID = //Insert APP_ID
+    final private String PRIVATE_KEY = //Insert PrivateKey
     private final String MY_EMAIL_ADDRESS = "jlinburg@doversd.org";
     public static final String EMAIL_PREF = "EMAIL_PREF";
     @Override
